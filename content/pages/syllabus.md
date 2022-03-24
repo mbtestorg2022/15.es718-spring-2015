@@ -30,7 +30,7 @@ A Sampling of Additional Information about the Selected Organization
 
 *   [About Sangath](http://mhinnovation.net/organisations/sangath)
 *   [On the Organization's Approach](http://www.ted.com/talks/vikram_patel_mental_health_for_all_by_involving_all)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Recent Paper (PDF)](http://sangath.com/images/file/SUNDAR-Vikram.pdf)
+*   [Recent Paper (PDF)](http://sangath.com/images/file/SUNDAR-Vikram.pdf)
 *   [On Earlier Results](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636390/)
 
 Logistics

@@ -11,9 +11,9 @@ Participating students reviewed these materials and [developed brief reviews]({{
 India Health
 ------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[GBD Profile: India (PDF)](http://www.healthdata.org/sites/default/files/files/country_profiles/GBD/ihme_gbd_country_report_india.pdf). _Institute for Health Metrics and Evaluation_. 2010.
+[GBD Profile: India (PDF)](http://www.healthdata.org/sites/default/files/files/country_profiles/GBD/ihme_gbd_country_report_india.pdf). _Institute for Health Metrics and Evaluation_. 2010.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[OECD Health Statistics 2014: How does India compare? (PDF)](http://www.oecd.org/els/health-systems/Briefing-Note-INDIA-2014.pdf)
+[OECD Health Statistics 2014: How does India compare? (PDF)](http://www.oecd.org/els/health-systems/Briefing-Note-INDIA-2014.pdf)
 
 Pati, S., et al. [Non Communicable Disease Multimorbidity and Associated Health Care Utilization and Expenditures in India: Cross Sectional Study](http://www.biomedcentral.com/1472-6963/14/451). _BMC Health Services Research_ 14 (2014).
 
@@ -36,7 +36,7 @@ Kalra, Aditya. "[India Slashes Health Budget, Already One of the World's Lowest]
 
 Prasad, Urvashi. "[What Does Slashing The Healthcare Budget Mean For India's Ailing Public Health System?](http://www.huffingtonpost.in/urvashi-prasad/what-does-slashing-the-he_b_6419976.html)" Jan. 1, 2015. _The Huffington Post_.
 
-Rao, M. Govinda and Mita Choudhury. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Health Care Financing Reforms in India." (PDF)](https://www.nipfp.org.in/media/medialibrary/2013/04/wp_2012_100.pdf). Working Paper No: 2012-100, March- 2012. National Institute of Public Finance and Policy.
+Rao, M. Govinda and Mita Choudhury. ["Health Care Financing Reforms in India." (PDF)](https://www.nipfp.org.in/media/medialibrary/2013/04/wp_2012_100.pdf). Working Paper No: 2012-100, March- 2012. National Institute of Public Finance and Policy.
 
 Ravi, Shamike and Rahul Ahulwalia. "[Band-aid Solutions for Health Problems](http://www.brookings.in/band-aid-solutions-for-health-problems/)." February 20, 2015. _Brookings India_.
 
@@ -70,7 +70,7 @@ Burns, Lawton Robert. "[A System Perspective on India's Healthcare Industry](htt
 
 Jayaraman, Vijay R. "[5 Things to Know about India's Healthcare System](http://forbesindia.com/blog/health/5-things-to-know-about-the-indias-healthcare-system/)." _Forbes, India_. November 17, 2015.
 
-Gill, Jennifer, and David Taylor. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Health and Health Care in India: National Opportunities, Global Impacts" (PDF - 3.0MB)](http://www.efpia.eu/uploads/UCL_summary.pdf). UCL School of Pharmacy. July, 2013.
+Gill, Jennifer, and David Taylor. ["Health and Health Care in India: National Opportunities, Global Impacts" (PDF - 3.0MB)](http://www.efpia.eu/uploads/UCL_summary.pdf). UCL School of Pharmacy. July, 2013.
 
 ### Key Additional Resources
 
@@ -89,7 +89,7 @@ Singh, Nirvikar. "[Decentralization and Public Delivery of Health Care Services 
 India Healthcare Delivery (especially Mental Health), Service Quality, HR, Task Shift
 -------------------------------------------------------------------------------------
 
-Buttorff, Christine, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Economic Evaluation of a Task-shifting Intervention for Common Mental Disorders in India." (PDF)](http://www.who.int/bulletin/volumes/90/11/12-104133.pdf). _Bulletin of the World Health Organization_ 90 (2012): 813-821.
+Buttorff, Christine, et al. ["Economic Evaluation of a Task-shifting Intervention for Common Mental Disorders in India." (PDF)](http://www.who.int/bulletin/volumes/90/11/12-104133.pdf). _Bulletin of the World Health Organization_ 90 (2012): 813-821.
 
 Das, Jishnu, et al. "[At the Intersection of Health, Health Care and Policy](http://content.healthaffairs.org/content/31/12/2774.full.html)." Health Affairs 31, no. 12 (2012): 2774-2784.
 
@@ -123,7 +123,7 @@ Jain, Anita. "[Patient Communities Reform Healthcare in India](http://www.bmj.co
 
 "[The Health of India: A Future that Must be Devoid of Caste](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)62261-3/)." _The Lancet_ 384 (2014): 1901.
 
-Chaturvedi, Sanjay, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Are we Reluctant to Talk About Cultural Determinants?" (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3103166/). _Indian Journal of Medical Research_ 133 (2011): 361-363.
+Chaturvedi, Sanjay, et al. ["Are we Reluctant to Talk About Cultural Determinants?" (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3103166/). _Indian Journal of Medical Research_ 133 (2011): 361-363.
 
 Sen, Binayak. "[Ethics, Equity and Genocide](http://www.csas.ed.ac.uk/old/events/seminar_series/2011_2012/ethics,_equity_and_genocide)." Infochange India. December, 2010.
 
@@ -154,7 +154,7 @@ Kwan, Ada. "[Getting Healthier Around the World: Infomation and Communication Te
 
 Mehl, Garret and Alain Labrique. "[Prioritizing integrated mHealth strategies for universal health coverage](http://www.sciencemag.org/content/345/6202/1284.abstract)." Science 345, no. 6202 (2014): 1284-1287.
 
-Shuchman, M. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Promise and Pitfalls of Global mHealth](http://www.cmaj.ca/content/186/15/1134.full.pdf+html)." Canadian Medical Association Journal 186, no. 15 (2014): 1134-1135.
+Shuchman, M. "[The Promise and Pitfalls of Global mHealth](http://www.cmaj.ca/content/186/15/1134.full.pdf+html)." Canadian Medical Association Journal 186, no. 15 (2014): 1134-1135.
 
 _"_[Data-driven Health Care](http://www.technologyreview.com/business-report/data-driven-health-care/)." _MIT Technology Review_ 117, no. 5 (2014).
 
@@ -186,7 +186,7 @@ Payne, H.E., et al. "[Behavioral Functionality of Mobile Apps in Health Interven
 
 Peiris, D., et al. "[Use of mHealth Systems and Tools for Non-Communicable Diseases in Low- and Middle-Income Countries: a Systematic Review](http://link.springer.com/article/10.1007%2Fs12265-014-9581-5)." _J. of Cardiovasc. Trans. Res._ 7 (2014):677–691.
 
-Philbrick, William C. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["mHealth and mNCH: State of the Evidence." (PDF - 2.1MB)](https://www.gfmer.ch/mhealth/coursefiles2013/mhealthmnch-evidence-final.pdf). mHealth Alliance. January, 2013.
+Philbrick, William C. ["mHealth and mNCH: State of the Evidence." (PDF - 2.1MB)](https://www.gfmer.ch/mhealth/coursefiles2013/mhealthmnch-evidence-final.pdf). mHealth Alliance. January, 2013.
 
 Shen, N., et al. "[Finding a Depression App: A Review and Content Analysis of the Depression App Marketplace](http://mhealth.jmir.org/2015/1/e16/)." JMIR mHealth and uHealth 3, no. 1 (2015):e16.
 
@@ -198,7 +198,7 @@ Fairman, A.D., et al. "Outcomes of Clinicians, Caregivers, Family Members and Ad
 
 Lindgardt, Z., et al. "[Fulfilling the Promise of mHealth Through Business Model Innovation](https://www.bcgperspectives.com/content/articles/innovation_medical_devices_technology_fulfilling_promise_mhealth_business_model_innovation/)." The Boston Consulting Group. April, 2014.
 
-Labrique, A.B., et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[mHealth innovations as health system strengthening tools: 12 common applications and a visual framework](http://www.ghspjournal.org/content/1/2/160.full)." Global Health: Science and Practice.
+Labrique, A.B., et al. "[mHealth innovations as health system strengthening tools: 12 common applications and a visual framework](http://www.ghspjournal.org/content/1/2/160.full)." Global Health: Science and Practice.
 
 Motamarri, S. "[Distinguishing “mHealth” from Other Healthcare Services in a Developing Country: A Study from the Service Quality Perspective](http://aisel.aisnet.org/cais/vol34/iss1/34/)." _Communications of the Assiciation for Information Systems_ 34, no. 1 (2014): 669-692.
 
@@ -207,7 +207,7 @@ More Ideas, Potential Inspirations, Approaches
 
 Bibby, Jo. "[Unleashing the Caring Potential of Families: Taking an Innovation from India to the U.S.](http://www.health.org.uk/blog/unleashing-caring-potential-families-taking-innovation-india-us)" The Health Foundation. March 13, 2015.
 
-Dixon-Fyle, S., et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Changing Patient Behavior: The Next Frontier in Healthcare Value." (PDF)](http://healthcare.mckinsey.com/sites/default/files/791750_Changing_Patient_Behavior_the_Next_Frontier_in_Healthcare_Value.pdf). Health International, McKinsey & Company, 2012.
+Dixon-Fyle, S., et al. ["Changing Patient Behavior: The Next Frontier in Healthcare Value." (PDF)](http://healthcare.mckinsey.com/sites/default/files/791750_Changing_Patient_Behavior_the_Next_Frontier_in_Healthcare_Value.pdf). Health International, McKinsey & Company, 2012.
 
 Mulgan, G. and C. Leadbeater. "[Systems Innovation: Discussion Paper](http://www.nesta.org.uk/publications/systems-innovation-discussion-paper)." Nesta, 2013.
 

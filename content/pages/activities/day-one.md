@@ -21,7 +21,7 @@ Assignments for Day Two
 
 Read the following:
 
-*   Patel, V. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Sundar: Mental Health for All" (PDF)](http://sangath.com/images/file/SUNDAR-Vikram.pdf).
+*   Patel, V. ["Sundar: Mental Health for All" (PDF)](http://sangath.com/images/file/SUNDAR-Vikram.pdf).
 *   Sangath for MIT intro, biosketches, key concepts.
 *   Sangath [Biennial Report (PDF)](http://www.sangath.com/images/file/Sangath%20Biennial%20Report%202012-14.pdf), review map to p. 30, pp. 34–43, 47–60, 64–65.
 *   Optional readings are also included [here]({{< baseurl >}}/pages/readings-and-materials).

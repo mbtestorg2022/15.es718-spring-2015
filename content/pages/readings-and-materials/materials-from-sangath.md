@@ -13,6 +13,6 @@ uid: df7aeb97-76b0-ccd8-146e-3ffe6f70206d
 *   Divan, G., et al. "Challenges, Coping Strategies, and Unmet Needs of Families with a Child with Autism Spectrum Disorder in Goa, India." _Autism Research_ 5 (2012): 190-200.
 *   [Rashtriya Bal Swasthya Karyakram (RBSK).](https://rbsk.gov.in/RBSKLive/) National Health Mission, Ministry of Health & Family Welfare, Government of India.
 *   [World Health Organization Infographic on Dementia](http://www.who.int/mental_health/neurology/dementia/infographic_dementia/en/)
-*   Patel, V. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Sundar: Mental Health for All." (PDF)](http://sangath.com/images/file/SUNDAR-Vikram.pdf) _The British Journal of Psychiatry_ 21, no. 1 (2015).
+*   Patel, V. ["Sundar: Mental Health for All." (PDF)](http://sangath.com/images/file/SUNDAR-Vikram.pdf) _The British Journal of Psychiatry_ 21, no. 1 (2015).
 *   Sangath for MIT intro, biosketches, key concepts
 *   "[Vikram Patel: Mental health for all by involving all](http://www.ted.com/talks/vikram_patel_mental_health_for_all_by_involving_all?language=en)." June, 2012. _TEDGlobal_.

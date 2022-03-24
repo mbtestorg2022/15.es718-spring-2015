@@ -24,7 +24,7 @@ Jiminez, Joseph. "[Health in Hard Places](http://www.project-syndicate.org/comme
 
 "[Health Outcomes and Cost: A 166-country Comparison](http://www.eiu.com/public/thankyou_download.aspx?activity=download&campaignid=Healthoutcome2014)." _The Economist_, Intelligence Unit. 2014.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Policy Brief #4: Opportunities for Low- and Middle-income Countries." (PDF)](http://globalhealth2035.org/sites/default/files/policy-briefs/policy-brief-4-english.pdf). _The Lancet_, Global health 2035.
+["Policy Brief #4: Opportunities for Low- and Middle-income Countries." (PDF)](http://globalhealth2035.org/sites/default/files/policy-briefs/policy-brief-4-english.pdf). _The Lancet_, Global health 2035.
 
 Mostert, S., et al. "[Effect of Corruption on Medical Care in Low-income Countries](http://onlinelibrary.wiley.com/doi/10.1002/pbc.23408/abstract)." _Pediatr. Blood Cancer 58_, no. 3 (2012): 325-326.
 
@@ -46,7 +46,7 @@ Dutt, Nisha. "Base of the Pyramid Consumers: Getting the Right Product to the Ri
 
 Ehrbeck, T., N. Henke, and T. Kibasi. "[The Emergin Market in Health Care Innovation](http://www.mckinsey.com/insights/health_systems_and_services/the_emerging_market_in_health_care_innovation)." McKinsey Quarterly. May, 2010.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Inside Inclusive Business: Needs or Wants? Unraveling demand, affordability and accessibility when selling to the base of the pyramid." (PDF - 1.2MB)](http://api.ning.com/files/x7FG2HC67s3qVHLznb8aWBNaNVFWJFO*CxNDEIZSCaZ0-tG*jKDTx2qqzHTdkIQ7sog9v56YMOOvZNsbncBMJp2QNn*2P6P*/InsiderNeedsorwantsAug2013.pdf). _Business Innovation Facility_ 8 (August, 2013).
+["Inside Inclusive Business: Needs or Wants? Unraveling demand, affordability and accessibility when selling to the base of the pyramid." (PDF - 1.2MB)](http://api.ning.com/files/x7FG2HC67s3qVHLznb8aWBNaNVFWJFO*CxNDEIZSCaZ0-tG*jKDTx2qqzHTdkIQ7sog9v56YMOOvZNsbncBMJp2QNn*2P6P*/InsiderNeedsorwantsAug2013.pdf). _Business Innovation Facility_ 8 (August, 2013).
 
 Simanis, E., S. Hart, and D. Duke. "The Base of the Pyramid Protocol: Beyond 'Basic Needs' Business Strategies." _Innovations (_Winter, 2008): 57-84.
 
@@ -62,7 +62,7 @@ Ellsberg, Mary, et al. "[Prevention of Violence Against Women and Girls: What Do
 
 Prince, M.J., et al. "[The Burden of Disease in Older People and Implications for Health Policy and Practice](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61347-7/)." _The Lancet_ 385, no. 9967 (2015): 549-562.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Global Health and Aging." (PDF - 1.6MB)](http://www.who.int/ageing/publications/global_health.pdf). National Institute of Aging, National Institute of Health, U.S. Department of Health and Human Services. World Health Organization. NIH Publication no. 11-7737. October, 2011.
+["Global Health and Aging." (PDF - 1.6MB)](http://www.who.int/ageing/publications/global_health.pdf). National Institute of Aging, National Institute of Health, U.S. Department of Health and Human Services. World Health Organization. NIH Publication no. 11-7737. October, 2011.
 
 ### Global Health: Mental Health, Alcohol
 
@@ -82,19 +82,19 @@ Henderson, Claire, et al. "[Mental Health-related Stigma in Health Care and Ment
 
 Kakuma, R., et al. "[Human Resources for Mental Health Care: Current Situation and Strategies for Action](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(11)61093-3/)." _The Lancet_ 378, no. 9803 (2011):1654-1663.
 
-Bithell, Claire, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Media and Mental Health: Breaking Down Stigma and Challenging Inaccuracies." (PDF - 1.8MB)](http://www.pacifichealthsummit.org/downloads/2012_Summit/PHS12_MentalHealth.pdf). The National Bureau of Asian Research, Center for Health and Aging. October, 2012.
+Bithell, Claire, et al. ["Media and Mental Health: Breaking Down Stigma and Challenging Inaccuracies." (PDF - 1.8MB)](http://www.pacifichealthsummit.org/downloads/2012_Summit/PHS12_MentalHealth.pdf). The National Bureau of Asian Research, Center for Health and Aging. October, 2012.
 
 Olson, Emma C. "[Reducing Perinatal Depression Among the Hard to Serve](https://journals.library.columbia.edu/index.php/jgh/article/view/4887/3078)." _The Journal of Global Health_. August 10, 2014.
 
 Patel, V., et al. "[Improving Access to Care for Children with Mental Disorders: A Global Perspective](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3672840/)." _Archive of Diseases in Childhood_ 98, no. 5 (2013): 323-327.
 
-Patel, V. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Rethinking Mental Health Care: Bridging the Credibility Gap." (PDF)](http://www.interventionjournal.com/sites/default/files/Patel%202014%20I%20bridging%20credibility%20gap.pdf). _Intervention_ 12, no. 1 (2014): 15-20.
+Patel, V. ["Rethinking Mental Health Care: Bridging the Credibility Gap." (PDF)](http://www.interventionjournal.com/sites/default/files/Patel%202014%20I%20bridging%20credibility%20gap.pdf). _Intervention_ 12, no. 1 (2014): 15-20.
 
 Thara, R. "[NGOs and Mental Health: Initiatives and Progress](http://link.springer.com/chapter/10.1007%2F978-94-017-9017-8_14)." In _Mental Health in South Asia: Ethics, Resources, Programs and Legislation_. Thara, R. J. K. Trivedi, A. Tripathi (eds.). Springer, 2015.
 
 [Management of Substance Abuse: Alcohol](http://www.who.int/substance_abuse/facts/alcohol/en/). World Health Organization.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Global Status Report on Alcohol and Health 2014 (PDF - 5.7MB)](http://apps.who.int/iris/bitstream/10665/112736/1/9789240692763_eng.pdf). World Health Organization.
+[Global Status Report on Alcohol and Health 2014 (PDF - 5.7MB)](http://apps.who.int/iris/bitstream/10665/112736/1/9789240692763_eng.pdf). World Health Organization.
 
 ### Global Health: MNCH, ID, NCDs
 
@@ -102,11 +102,11 @@ Chopra, Mickey, et al. "[Strategies to Improve Health Coverage and Narrow the Eq
 
 Ebrahim, Shah, et al. "[Tackling Non-Communicable Diseases In Low- and Middle-Income Countries: Is the Evidence from High-Income Countries All We Need?](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001377)" _PLOS Medicine_ 10, no. 1 (2013): e1001377.
 
-Fox-Rushby, Julia. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Commentary on Jha P., R. Nugent, S. Verguet, D. Bloom, R. Hum 'Chronic Disease Prevention and Control'." (PDF - 2.2MB)](http://www.copenhagenconsensus.com/sites/default/files/chronicdisease.pdf). Copenhagen Consensus 2012 Perspective Paper.
+Fox-Rushby, Julia. ["A Commentary on Jha P., R. Nugent, S. Verguet, D. Bloom, R. Hum 'Chronic Disease Prevention and Control'." (PDF - 2.2MB)](http://www.copenhagenconsensus.com/sites/default/files/chronicdisease.pdf). Copenhagen Consensus 2012 Perspective Paper.
 
 Hoppu, Kalle and Shalini Sri Ranganathan. "[Essential Medicines for Children](http://adc.bmj.com/content/100/Suppl_1/S38.full)." _Archives of Diseases in Childhood_ 1, no. Supp1 (2013): s38-s42.
 
-Jha, P., et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Chronic Disease Prevention and Control." (PDF - 2.2MB)](http://www.copenhagenconsensus.com/sites/default/files/chronicdisease.pdf). Copenhagen Consensus 2012 Challange Paper.
+Jha, P., et al. ["Chronic Disease Prevention and Control." (PDF - 2.2MB)](http://www.copenhagenconsensus.com/sites/default/files/chronicdisease.pdf). Copenhagen Consensus 2012 Challange Paper.
 
 Kendall, T. "[Critical Maternal Health Knowledge Gaps in Low- and Middle-income Countries for Post-2015: Researcher' Perspectives](https://reproductive-health-journal.biomedcentral.com/articles/10.1186/s12978-015-0044-5)." Women and Health Initiative Working Paper No. 2. Women and Health Initiative, Harvard School of Public Health: Boston, MA. January, 2015. ISBN: 978-0-9913686-1-7.
 
@@ -150,7 +150,7 @@ Chari, Anusha and Peter Blair Henry. "[Learning From the Doers: Developing Count
 
 Biswas, Jhilam. "[Learning about Task Shifting](http://phsglobalhealth.blogspot.com/2014/03/learning-about-task-shifting.html)." Partners Center of Expertise in Global and Humanitarian Health. March 23, 2014.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Health Workforce Innovation: Accelerating Private Sector Responses to the Human Resources for Health Crisis." (PDF - 3.6MB)](http://www.who.int/workforcealliance/knowledge/resources/pstf_report2012_en.pdf). Private Sector Task Force Report, Global Health Workforce Alliance, World Health Organization (WHO).
+["Health Workforce Innovation: Accelerating Private Sector Responses to the Human Resources for Health Crisis." (PDF - 3.6MB)](http://www.who.int/workforcealliance/knowledge/resources/pstf_report2012_en.pdf). Private Sector Task Force Report, Global Health Workforce Alliance, World Health Organization (WHO).
 
 Goel, Sonu, et al. "[Bridging the Human Resource Gap in Primary Health Care Delivery Systems of Developing Countries With mHealth: Narrative Literature Review](http://mhealth.jmir.org/2013/2/e25/)." _JMIR Mhealth and Uhealth_ 1, no. 2 (2013): e25.
 
@@ -168,21 +168,21 @@ Woodroffe, Jessica and Kate Donald. "[Unpaid Care: A Priority for the Post-2015 
 
 Govindarajan, Vijay and Ravi Ramamurti. "[Delivering World-class Health Care, Affordably](https://hbr.org/2013/11/delivering-world-class-health-care-affordably)." Harvard Business Review. November 2013.
 
-Vickers, Tracey and Ellen Rosen. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Driving Down the Cost of High-quality Care: Lessons from the Aravind Eye Care System." (PDF)](http://www.mckinsey.com/~/media/McKinsey/dotcom/client_service/Healthcare%20Systems%20and%20Services/Health%20International/HI11_18%20AravindEyeCareSys_R6.ashx). _Health International_ 11 (2011): 18-27.
+Vickers, Tracey and Ellen Rosen. ["Driving Down the Cost of High-quality Care: Lessons from the Aravind Eye Care System." (PDF)](http://www.mckinsey.com/~/media/McKinsey/dotcom/client_service/Healthcare%20Systems%20and%20Services/Health%20International/HI11_18%20AravindEyeCareSys_R6.ashx). _Health International_ 11 (2011): 18-27.
 
 ### India Business Opportunities, Trends
 
 "[Business and the Health Millennium Development Goals in India: Closing the Gaps](http://gbchealth.org/business-and-the-health-millennium-development-goals-in-india-closing-the-gaps/)." GBC Health and the MDG Health Alliance. February, 2015.
 
-_![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Healthcare (PDF - 1.3MB)](http://www.ibef.org/download/Healthcare-August-2015.pdf)_. India Brand Equity Foundation (IBEF), August 2015.
+_[Healthcare (PDF - 1.3MB)](http://www.ibef.org/download/Healthcare-August-2015.pdf)_. India Brand Equity Foundation (IBEF), August 2015.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Enabling Access to Long-term Finance for Healthcare in India" (PDF - 3.2MB)](https://www.pwc.se/sv/halso-sjukvard/assets/enabling-access-to-long-term-healthcare-funding-in-india.pdf). NatHealth, Healthcare Federation of India, PWC. October, 2013.
+"[Enabling Access to Long-term Finance for Healthcare in India" (PDF - 3.2MB)](https://www.pwc.se/sv/halso-sjukvard/assets/enabling-access-to-long-term-healthcare-funding-in-india.pdf). NatHealth, Healthcare Federation of India, PWC. October, 2013.
 
 Ramani, K.V. "[The India Healthcare Sector: Governance and Management Challanges](http://scholarpublishing.org/index.php/ASSRJ/article/view/52)." _Advances in Social Science Research Journal_ 1, no. 1 (2014): 11-21.
 
 Sammut, Stephen M. and Lawton R. Burns. "[Meeting the Challenges of Healthcare Needs in India: Paths to Innovation](http://isbinsight.isb.edu/meeting-challenges-healthcare-needs-india-paths-innovation/)." In _India's Healthcare Hurdles_. _ISB Insight_ 9, no. 2 (October-December, 2011).
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Transforming India's Vaccine Market: Saving Lives, Creating Value." (PDF - 1.2MB)](http://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/pharma%20and%20medical%20products/pmp%20new/pdfs/transforming_indias_vaccines_market.ashx). McKinsey & Company. Prepared for Organisation of Pharmaceutical Producers of India. September 15, 2012.
+["Transforming India's Vaccine Market: Saving Lives, Creating Value." (PDF - 1.2MB)](http://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/pharma%20and%20medical%20products/pmp%20new/pdfs/transforming_indias_vaccines_market.ashx). McKinsey & Company. Prepared for Organisation of Pharmaceutical Producers of India. September 15, 2012.
 
 ### India Healthcare: Comments, Opinions
 
@@ -198,7 +198,7 @@ Nandraj, Sunil. "[Private Healthcare Providers in India are Above the Law, Leavi
 
 Narayan, R. "[Universal Health Care in India: Missing Core Determinants](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)62045-4/)." _The Lancet_ 377, no. 9769 (2011): 883-885.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Healthcare in India: A Call for Innovative Reform (PDF)](http://www.nbr.org/downloads/pdfs/Outreach/NBR_IndiaCaucus_Dec2012.pdf). The National Bureau of Asian Research. December, 2012.
+[Healthcare in India: A Call for Innovative Reform (PDF)](http://www.nbr.org/downloads/pdfs/Outreach/NBR_IndiaCaucus_Dec2012.pdf). The National Bureau of Asian Research. December, 2012.
 
 Patel, Vikram, et al. "[Universal Health Care in India: The Time is Right](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)62044-2/)." _The Lancet_ 377 (2011): 448-449.
 
@@ -224,7 +224,7 @@ Gladstone, B.P., et al. "[Infant Morbidity in an Indian Slum Birth Cohort.](http
 
 Horton, Richard. "[Offline: How Many Women Die in India?](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)60839-4/)" _The Lancet_ 383, no. 9931 (2014): 1792.
 
-Joseph, Nitin, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Morbidity among Infants in South India: A Longitudinal Study." (PDF)](https://www.semanticscholar.org/paper/Morbidity-among-infants-in-South-India%3A-A-study-Joseph-Subba/c82bcb569742af01007752c643f1a02dcd1874bd). Indian Journal of Pediatrics 77 (2010): 456-458.
+Joseph, Nitin, et al. ["Morbidity among Infants in South India: A Longitudinal Study." (PDF)](https://www.semanticscholar.org/paper/Morbidity-among-infants-in-South-India%3A-A-study-Joseph-Subba/c82bcb569742af01007752c643f1a02dcd1874bd). Indian Journal of Pediatrics 77 (2010): 456-458.
 
 Montogomery, Ann L. "The Effect of Health-facility Admission and Skilled Birth Attendant Coverage on Maternal Survival in India: A Case-control Analysis." _PLOS One_ 9, no. 6 (2014): e95696.
 
@@ -242,11 +242,11 @@ Crookston, Benjamin T. "[Postinfancy Growth, Schooling, and Cognitive Achievemen
 
 Harish, Kamlesh. "[Experience of Nutrition Rehabilitation Centers in Management of SAM](http://www.indianpediatrics.net/june2014/june-501-502.htm)." Indian Pediatrics.
 
-Rogers, Beatrice L. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Perspective Paper: "Hunger and Malnutrition." (PDF - 2.6MB)](http://www.copenhagenconsensus.com/sites/default/files/hunger_perspective_paper_rogers.pdf). Copenhagen Consensus, 2012.
+Rogers, Beatrice L. [Perspective Paper: "Hunger and Malnutrition." (PDF - 2.6MB)](http://www.copenhagenconsensus.com/sites/default/files/hunger_perspective_paper_rogers.pdf). Copenhagen Consensus, 2012.
 
-Deolalikar, Anil. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Perspective Paper: "Hunger and Malnutrition." (PDF - 2.4MB)](http://www.copenhagenconsensus.com/sites/default/files/hunger_perspectivepaper1.pdf). Copenhagen Consensus, 2012.
+Deolalikar, Anil. [Perspective Paper: "Hunger and Malnutrition." (PDF - 2.4MB)](http://www.copenhagenconsensus.com/sites/default/files/hunger_perspectivepaper1.pdf). Copenhagen Consensus, 2012.
 
-Hoddinott, John, Mark Rosegrant, and Maximo Torero. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Challenge Paper: "Hunger and Malnutrition." (PDF - 2.9MB)](http://www.copenhagenconsensus.com/sites/default/files/hungerandmalnutrition.pdf). Copenhagen Consensus, 2012.
+Hoddinott, John, Mark Rosegrant, and Maximo Torero. [Challenge Paper: "Hunger and Malnutrition." (PDF - 2.9MB)](http://www.copenhagenconsensus.com/sites/default/files/hungerandmalnutrition.pdf). Copenhagen Consensus, 2012.
 
 Biswas, Asit K. and Cecilia Tortajada. "[India's Homemade Food Crisis](http://www.project-syndicate.org/commentary/asit-k--biswas-and-cecilia-tortajada-attribute-shortages-and-undernourishment-to-widespread-wastage-of-output)." _Project Syndicate_. August 8, 2014.
 
@@ -254,7 +254,7 @@ Atkuri, Ramani with Jan Swasthya Sahyog. "[Layperson's Guide to Nutrition and Ma
 
 Sundaram, Jomo Kwame. "[Rethinking Hunger](http://www.project-syndicate.org/commentary/rethinking-hunger-and-undernourishment-by-jomo-kwame-sundaram-2014-10)." _Project Syndicate_. October 30, 2014.
 
-Wagh, Vijay D. and Bhawesh R. Deore. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)](https://www.nutriafrica.org/wp-content/uploads/2017/08/Come-si-usa-un-RUTF.pdf)["Ready to Use Therapeutic Food (RUTF): An Overview." (PDF)](https://www.nutriafrica.org/wp-content/uploads/2017/08/Come-si-usa-un-RUTF.pdf) _Advances in Life Science and Health_ 2, no. 1 (2015): 1-15.
+Wagh, Vijay D. and Bhawesh R. Deore. [](https://www.nutriafrica.org/wp-content/uploads/2017/08/Come-si-usa-un-RUTF.pdf)["Ready to Use Therapeutic Food (RUTF): An Overview." (PDF)](https://www.nutriafrica.org/wp-content/uploads/2017/08/Come-si-usa-un-RUTF.pdf) _Advances in Life Science and Health_ 2, no. 1 (2015): 1-15.
 
 ### Pharmaceuticals, Medical Products
 
@@ -262,7 +262,7 @@ Berndt, E. R. and I. M. Cockburn. "[The Hidden Cost of Low Prices: Limited Acces
 
 Grover, Anand and Brian Citro. "[India: Access to Affordable Drugs and the Right to Health](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)62042-9)." _The Lancet_ 377, no. 9770 (2011): 976-977.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["India Pharma 2020: Propelling Access and Acceptance, Realising True Potential." (PDF)](http://online.wsj.com/public/resources/documents/McKinseyPharma2020ExecutiveSummary.pdf). McKinsey & Company.
+["India Pharma 2020: Propelling Access and Acceptance, Realising True Potential." (PDF)](http://online.wsj.com/public/resources/documents/McKinseyPharma2020ExecutiveSummary.pdf). McKinsey & Company.
 
 Bland, Jessica. "[Refilling the Innovator's Prescription: The New Wave of Medtech](https://www.nesta.org.uk/report/refilling-the-innovators-prescription-the-new-wave-of-medtech/)." Conclusions for Silicon Valley Comes to the UK 2013. March 2014.
 
@@ -270,6 +270,6 @@ Yanagizawa-Drott, David. "[Leakages and Market Failures in the Provision of Heal
 
 ### Prevention
 
-_![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Improving Support for Health Promotion and Chronic Disease Prevention: Summary of Key Messages from Reports of the Institute of Medicine (PDF - 1.9MB)](http://iom.nationalacademies.org/~/media/Files/Report%20Files/2010/Promoting-Cardiovascular-Health-in-the-Developing-World/Vitality.pdf)_. Carroll, Leigh and Bridge B. Kelly (eds.), Institute of Medicine (IOM) of the National Academies, 2014.
+_[Improving Support for Health Promotion and Chronic Disease Prevention: Summary of Key Messages from Reports of the Institute of Medicine (PDF - 1.9MB)](http://iom.nationalacademies.org/~/media/Files/Report%20Files/2010/Promoting-Cardiovascular-Health-in-the-Developing-World/Vitality.pdf)_. Carroll, Leigh and Bridge B. Kelly (eds.), Institute of Medicine (IOM) of the National Academies, 2014.
 
 Yach, Derek and Chris Calitz. "[New Opportunities in the Changing Landscape of Prevention](http://jama.jamanetwork.com/article.aspx?articleid=1889667)." _Journal of the American Medical Association_ 312, no. 8 (2014): 791-792.
