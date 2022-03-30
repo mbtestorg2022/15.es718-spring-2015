@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: da312d23-f4b4-05db-46b5-2c38fa76dfb5
 resourcetype: Image
 title: MITclassroom_E62-223.jpg
 uid: c46b2a16-f8be-c6c4-fa14-3fa43e5653eb

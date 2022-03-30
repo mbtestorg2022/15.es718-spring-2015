@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding backgro
   on healthcare in india.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/8f153588da0b9b6858abaa0df08766ea_MIT15_ES718S15_Day2.pdf
 file_type: application/pdf
+parent_uid: 7abb4806-91cb-89e3-a98e-c3650fc22bb1
 resourcetype: Document
 title: Background on Healthcare in India - 15.ES718 Spring 2015 (SIP)
 uid: 8f153588-da0b-9b68-58ab-aa0df08766ea

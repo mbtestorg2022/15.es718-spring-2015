@@ -12,7 +12,7 @@ Lectures / Workshops: 3 sessions, various hours / session (session one: 3 hours,
 Course Overview
 ---------------
 
-Every day, nurses, doctors, and their colleagues wrestle with the challenge of delivering healthcare to those who most need it. There's wide consensus that management and business tools and innovations could help in the quest to do more with less. Our past experience with [70 GlobalHealth Lab projects](/courses/15-s07-globalhealth-lab-spring-2013/) in clinics, hospitals, and programs that serve the poor in sub-Saharan Africa and south Asia reveals the benefits of practical assistance in marketing, operations, change management, design, technology use, finance, strategy, and systems thinking.
+Every day, nurses, doctors, and their colleagues wrestle with the challenge of delivering healthcare to those who most need it. There's wide consensus that management and business tools and innovations could help in the quest to do more with less. Our past experience with [70 GlobalHealth Lab projects](/courses/15-s07-globalhealth-lab-spring-2013) in clinics, hospitals, and programs that serve the poor in sub-Saharan Africa and south Asia reveals the benefits of practical assistance in marketing, operations, change management, design, technology use, finance, strategy, and systems thinking.
 
 These collaborations have also led to two discoveries: That innovative frontline workers and managers in many different settings are finding new ways to custom-design healthcare services to meet their communities' unique needs—and, at the same time, that many healthcare workers have little scope to discover others' new innovations in technology and care delivery that could prove helpful to their organization.
 

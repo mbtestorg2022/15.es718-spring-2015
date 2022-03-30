@@ -21,7 +21,7 @@ One way around this is to refine the problem so that it becomes a very specific 
 Motivating Students
 -------------------
 
-In contrast to what we do in [GlobalHealth Lab](/courses/15-s07-globalhealth-lab-spring-2013/), where we actually change how an organization treats patients, for this short intensive course, we weren’t giving our partner organization advice on what exactly to do. Instead, we wanted to fuel their thinking about the problem.
+In contrast to what we do in [GlobalHealth Lab](/courses/15-s07-globalhealth-lab-spring-2013), where we actually change how an organization treats patients, for this short intensive course, we weren’t giving our partner organization advice on what exactly to do. Instead, we wanted to fuel their thinking about the problem.
 
 It can be difficult for students to imagine what it’s like to live in rural India and not have a smartphone, constant access to the internet, or a car. A good pre-assignment might have been a set of videos, or first-person accounts that would give a more vivid and _emotionally_ compelling picture of daily life of the patients Sangath was trying to reach.
 

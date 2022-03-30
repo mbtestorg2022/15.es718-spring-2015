@@ -17,7 +17,7 @@ I assembled hundreds of readings for this course, and to pare down to that numbe
 Connecting and Communicating with Experts
 -----------------------------------------
 
-Another challenge was to line up a bench of experts in the field, and then design the method of using them in the class. I have a good Rolodex from my eight years of [GlobalHealth Lab](/courses/15-s07-globalhealth-lab-spring-2013/). I selected the group, wrote biographies for all of them, and compiled these into a document, which was a big job. Then we had to get on their schedules and figure out the logistics of how they would talk with students.
+Another challenge was to line up a bench of experts in the field, and then design the method of using them in the class. I have a good Rolodex from my eight years of [GlobalHealth Lab](/courses/15-s07-globalhealth-lab-spring-2013). I selected the group, wrote biographies for all of them, and compiled these into a document, which was a big job. Then we had to get on their schedules and figure out the logistics of how they would talk with students.
 
 {{< quote "Students have no idea how much back-end work goes into [a course like this] …" " —Dr. Anjali Sastry" >}}
 
